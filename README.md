@@ -12,7 +12,8 @@ This project presents the comprehensive development of a **Library Management Sy
 
 ---
 
-**Project Objectives**
+****Project Objectives****
+
 **1. Database Initialization**
 Establish the Library Management System database by designing and populating relational tables for key entities including branches, employees, members, books, issued status, and return status.
 
